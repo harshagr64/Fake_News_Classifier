@@ -3,3 +3,4 @@ This is a Fake News Classifier Model built using bag of word model which is the 
 
 
 Link of Dataset on which I applied this Model is : www.kaggle.com/c/fake-news/data .
+From this link, You should download "train.csv" file. 
